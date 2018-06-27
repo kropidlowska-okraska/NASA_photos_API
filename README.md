@@ -4,6 +4,7 @@ Website with photos from Mars, obtained from NASA's API. Website presents the ga
 
 # Demo
 
+You can find the demo of this project on: https://kropidlowska-okraska.github.io/NASA_photos_API/
 
 # Technologies 
 Website is built with HTML and styled in CSS. Functionalities are added with the use of jQuery. Data from API has been received by using AJAX.
